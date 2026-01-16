@@ -1,4 +1,4 @@
-# Predictive Sourcing Prototype (Local-First)
+# Data consultancy Prototype (Local-First)
 
 ## Quick Start
 
